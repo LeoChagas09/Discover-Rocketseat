@@ -1,0 +1,18 @@
+* {margin: 0;}
+
+header {
+    height: 300px;
+    border: 7px dashed red;
+    padding: 16px;
+
+    background-color: rgb(55, 100, 50);
+    background-image: url(https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    background-attachment: fixed;
+
+    background: linear-gradient(50deg, red, yellow); 
+}
