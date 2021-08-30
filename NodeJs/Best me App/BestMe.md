@@ -10,5 +10,6 @@ A se comunicar com o processo enquanto ele estiver Rodando
 
 [] process.stdout
 [] process.stdin
+[] process.on
 
 * Assincronismo
